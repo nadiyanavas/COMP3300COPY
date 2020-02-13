@@ -23,8 +23,7 @@ while (x_val >= 1)
  val = (double)count/x;
 System.out.println(val);
 
-
-System.out.println("Here is my change!");
+// deleted my first change 
 
 System.out.println("Here is my second change!");
 
