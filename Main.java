@@ -26,6 +26,8 @@ System.out.println(val);
 
 System.out.println("Here is my change!");
 
+System.out.println("Here is my second change!");
+
  value = value + x_val; 
  count ++ ;
 
